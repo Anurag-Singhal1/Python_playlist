@@ -1,0 +1,21 @@
+python can be used for webd, AI , scripting  and even software development.
+
+DJANGO IS A WEB-APPLICATION FRAMEWORK  : backend developer
+
+MVC  -  MODEL VIEW CONTROLLER
+model for data,  view is the html format hat u see on the screen , and controller which will contol all the operations .
+MVC -  HELPS  u to build gud web application.
+
+MVT - MODEL VIEW TEMPLATE , djano basically follows MVT.
+
+
+advanatges to use django :  django is a web framework for python
+1. it is fast
+2. the no of components available , ex: to record a vdo we use camera, light, mic , etc.
+
+similarly, in web app, we need login, database connectivity, etc....
+
+3. security
+4. scalability
+
+dynamic website means we all see different feeds like on fb, google, bank-balance ..........
